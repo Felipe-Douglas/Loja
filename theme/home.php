@@ -1,1 +1,1 @@
-<?= "Home" ?>
+<?= $this->layout("_theme") ?>
